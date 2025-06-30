@@ -3,14 +3,14 @@
 🔭 I’m currently working on Java Development  
 🌱 I’m currently learning Spring Boot  
 💬 Ask me about Java   
-📫 How to reach me: sonigauri1208.email@gmail.com  
+📫 How to reach me: sonigauri1208@gmail.com  
 😄 Pronouns: She/Her 
 
 ## 🌐 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github-username](https://github.com/gauri12soni))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-id](https://github.com/gauri12soni))
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-leetcode-id](https://leetcode.com/u/sonigauri1208/))
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauri12soni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gauri-soni-739260202)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonigauri1208/)
 
 ## 🛠️ Languages and Tools
 
