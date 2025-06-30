@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-Color?style=flat&logo=logo&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-Color?style=flat&logo=logo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Color?style=flat&logo=logo&logoColor=white)
-![Intellij Idea](https://img.shields.io/badge/IntelliJIdea-Color?style=flat&logo=logo&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/IntellijIdea-Color?style=flat&logo=logo&logoColor=white)
 
 
 ## 📊 GitHub Stats
