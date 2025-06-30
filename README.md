@@ -14,13 +14,15 @@
 
 ## 🛠️ Languages and Tools
 
-![java](https://img.shields.io/badge/Language1-Color?style=flat&logo=logo&logoColor=white)
-![HTML](https://img.shields.io/badge/Language1-Color?style=flat&logo=logo&logoColor=white)
-![CSS](https://img.shields.io/badge/Language1-Color?style=flat&logo=logo&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Language1-Color?style=flat&logo=logo&logoColor=white)
-![SQL](https://img.shields.io/badge/Language2-Color?style=flat&logo=logo&logoColor=white)
-![Git](https://img.shields.io/badge/Tool1-Color?style=flat&logo=logo&logoColor=white)
-![Github](https://img.shields.io/badge/Tool2-Color?style=flat&logo=logo&logoColor=white)
+![java](https://img.shields.io/badge/Java-Color?style=flat&logo=logo&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Color?style=flat&logo=logo&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Color?style=flat&logo=logo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Color?style=flat&logo=logo&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Color?style=flat&logo=logo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Color?style=flat&logo=logo&logoColor=white)
+![Github](https://img.shields.io/badge/Github-Color?style=flat&logo=logo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Color?style=flat&logo=logo&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/IntelliJIdea-Color?style=flat&logo=logo&logoColor=white)
 
 
 ## 📊 GitHub Stats
